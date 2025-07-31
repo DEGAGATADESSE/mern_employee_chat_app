@@ -19,7 +19,7 @@ MINT-ROOM-CHAT
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [DEGAGATADESSE](https://github.com/DEGAGATADESSE/portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [DEGAGATADESSE](https://telegram.com/dagi1778). Thanks!
 
 ## Built With
 
